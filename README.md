@@ -1,6 +1,5 @@
 GALACTIC CREDIT (GCR)
-
-"GALACTIC CREDIT" (logo.png)
+![GALACTIC CREDIT](logo.png)
 
 Official token on Solana
 
