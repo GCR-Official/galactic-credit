@@ -7,7 +7,9 @@ This is the official GALACTIC CREDIT token.
 
 Original contract address (CA):
 
-"CnJQPH8VYvTk3YCfpNEo3ebyFgp2YzHAeYeUzBospump"
+CnJQPH8VYvTk3YCfpNEo3ebyFgp2YzHAeYeUzBospump
+
+**Creation date:** November 14, 2026 — 11:50:24 UTC
 
 Official Pump.fun page:
 
